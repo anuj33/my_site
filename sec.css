@@ -1,0 +1,38 @@
+body{
+    background: #636157;
+    color:#f5f4f0;
+
+
+}
+ul li {
+    display: inline-block;
+    margin-left: 30px;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 10px;
+    line-height: 60px;
+}
+button{
+    border:none;
+    background:#636157;
+    color: rgba(253, 156, 77, 0.76);
+    font-size:23px;
+    text-transform:uppercase;
+}
+#banner{
+    padding:50px;
+    margin:0 auto;
+    line-height: 30px;
+    font-size: 20px;
+
+}
+#banner h1{
+    text-align:center;
+    text-transform:uppercase;
+
+
+}
+
+
+
+

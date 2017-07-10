@@ -30,9 +30,27 @@ button{
     text-align:center;
     text-transform:uppercase;
 
-
+}
+#li1{
+    color: #4b8be2;
 }
 
+#li2{
+    color: #e266b4;
+}
+#li3{
+    color: #41e2d6;
+}
+#li4{
+    color: #e24328;
+}
 
-
-
+#li5{
+    color: #3e19e2;
+}
+#li6{
+    color: #13e2a2;
+}
+#li7{
+    color: #b7e20a;
+}
